@@ -1,0 +1,7 @@
+numpy==1.26.4
+scipy==1.15.3
+pandas==1.4.0
+matplotlib==3.5.1
+seaborn==0.12.2
+osqp==0.6.7.post3
+statsmodels==0.13.5
