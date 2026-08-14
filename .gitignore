@@ -17,10 +17,7 @@ env/
 Thumbs.db
 .DS_Store
 
-paper/
-drawio/
-工具/
-code/results/
+results/
 *.tmp
 *.bak
 ~$*
